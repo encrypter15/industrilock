@@ -1,11 +1,3 @@
-Below is the full Python code for **IndustriLock**, followed by its `README.md`. This is the second tool from the list, designed for penetration testing and securing door control systems within industrial environments.
-
----
-
-### Response 2: IndustriLock (Python)
-
-#### Full Code: `industrilock.py`
-```python
 #!/usr/bin/env python3
 """
 IndustriLock - A penetration testing tool for industrial door control systems
